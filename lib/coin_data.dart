@@ -31,6 +31,7 @@ const List<String> cryptoList = [
   'LTC',
   'DOGE',
   'ETC',
+  'YFII',
 ];
 
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
